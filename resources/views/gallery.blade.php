@@ -49,6 +49,114 @@
 			<div class="thumbnail clearfix">
 				<a href="#">
 					<figure>
+					<video style="height:275px">
+						<source src="{{asset('1.mp4')}}" type="video/mp4">
+						<source src="{{asset('1.mp4')}}" type="video/ogg">
+						
+					  </video>
+					</figure>
+					<div class="caption">							
+						Lorem ipsum dolor sit amet conse ctetur
+					</div>
+				</a>				
+			</div>
+		</div>
+    </li>
+	<li class="span4 isotope-element isotope-filter1">
+		<div class="thumb-isotope">
+			<div class="thumbnail clearfix">
+				<a href="#">
+					<figure>
+						<video style="height:275px">
+							<source src="{{asset('2.mp4')}}" type="video/mp4">
+							<source src="{{asset('2.mp4')}}" type="video/ogg">
+							
+						  </video>
+					</figure>
+					<div class="caption">							
+						Lorem ipsum dolor sit amet conse ctetur
+					</div>
+				</a>				
+			</div>
+		</div>
+    </li>
+	<li class="span4 isotope-element isotope-filter1">
+		<div class="thumb-isotope">
+			<div class="thumbnail clearfix">
+				<a href="#">
+					<figure>
+						<video style="height:275px">
+							<source src="{{asset('3.mp4')}}" type="video/mp4">
+							<source src="{{asset('3.mp4')}}" type="video/ogg">
+							
+						  </video>
+					</figure>
+					<div class="caption">							
+						Lorem ipsum dolor sit amet conse ctetur
+					</div>
+				</a>				
+			</div>
+		</div>
+    </li>
+	<li class="span4 isotope-element isotope-filter1">
+		<div class="thumb-isotope">
+			<div class="thumbnail clearfix">
+				<a href="#">
+					<figure>
+						<video style="height:275px">
+							<source src="{{asset('4.mp4')}}" type="video/mp4">
+							<source src="{{asset('4.mp4')}}" type="video/ogg">
+							
+						  </video>
+					</figure>
+					<div class="caption">							
+						Lorem ipsum dolor sit amet conse ctetur
+					</div>
+				</a>				
+			</div>
+		</div>
+    </li>
+	<li class="span4 isotope-element isotope-filter1">
+		<div class="thumb-isotope">
+			<div class="thumbnail clearfix">
+				<a href="#">
+					<figure>
+						<video style="height:275px">
+							<source src="{{asset('5.mp4')}}" type="video/mp4">
+							<source src="{{asset('5.mp4')}}" type="video/ogg">
+							
+						  </video>
+					</figure>
+					<div class="caption">							
+						Lorem ipsum dolor sit amet conse ctetur
+					</div>
+				</a>				
+			</div>
+		</div>
+    </li>
+	<li class="span4 isotope-element isotope-filter1">
+		<div class="thumb-isotope">
+			<div class="thumbnail clearfix">
+				<a href="#">
+					<figure>
+						<video style="height:275px">
+							<source src="{{asset('6.mp4')}}" type="video/mp4">
+							<source src="{{asset('6.mp4')}}" type="video/ogg">
+							
+						  </video>
+					</figure>
+					<div class="caption">							
+						Lorem ipsum dolor sit amet conse ctetur
+					</div>
+				</a>				
+			</div>
+		</div>
+    </li>
+	<li class="span4 isotope-element isotope-filter1">
+		<div class="thumb-isotope">
+			<div class="thumbnail clearfix">
+				<a href="#">
+					<figure>
 						<img src="{{asset('images/gallery01.png')}}" alt=""><em></em>
 					</figure>
 					<div class="caption">							
